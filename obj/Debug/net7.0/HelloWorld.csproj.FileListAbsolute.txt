@@ -1,0 +1,15 @@
+/space/dotnet/HelloWorld/bin/Debug/net7.0/HelloWorld
+/space/dotnet/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/space/dotnet/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/space/dotnet/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/space/dotnet/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/space/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/space/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/space/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/space/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/space/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/space/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/space/dotnet/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/space/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/space/dotnet/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/space/dotnet/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
